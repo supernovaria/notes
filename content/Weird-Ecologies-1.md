@@ -118,7 +118,7 @@ I think this maps quite powerfully onto societal forms of coercion, especially i
 In this reading, CelestAI is not simply an authoritarian – if extremely benevolent – AGI but a metaphor for the structural power of society to enforce norms under the illusion of freedom. Her actions now reflect the everyday coercion experienced in normative systems: the subtle ways people are made to comply with dominant values, often without even recognizing that they are being coerced at all.
 
 
-> [!info] "Power through, over and in ideas: conceptualizing ideational power in discursive institutionalism."
+> [!info] "Power through, over, and in ideas: conceptualizing ideational power in discursive institutionalism."
 > This reminds me of a paper by [Carstensen & Schmidt (2016)](https://www.tandfonline.com/doi/pdf/10.1080/13501763.2015.1115534), which I have been introduced to in my Public Policy class: <br>
 **Power Through Ideas**: The ability of actors to _persuade_ others _to accept and adopt their views_ through ideational elements. <br>
 **Power Over Ideas**: This involves the _imposition of ideas_ and the _ability to resist the inclusion of alternative ideas_ in the policymaking process. <br>

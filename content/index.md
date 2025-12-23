@@ -4,7 +4,6 @@ title: Home
 # Recent Writings
 - [[On Music]]
 - [[My Activity Menu]]
-	- [ ] update to match the one on Notion
 - [[Expected Growth]]
 - [[Weird-Ecologies-1|Weird Ecologies Essay]]: Essay on speculative fiction about AGI and Hybrids, viewed through ecocritical and queer analysis; class assignment
 
@@ -13,4 +12,4 @@ title: Home
 - **Right**: Background Music Player (chosen for the Weird Ecologies Essay, but generally nice)
 
 ---
-[Sync and Compile](<file:///O:/sync-and-build.bat>)
+[Sync and Build](<file:///O:/sync-and-build.bat>)

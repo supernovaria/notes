@@ -4,6 +4,13 @@ Bonus_Duration::
 Bonus_Writing:: 
 [[Writing November 2025]]
 
+---
+Jump to [[Expected Growth#Update Month 7|Update Month 7]]
+_Epistemic Status:_ non-serious/jovial; I don't actually care about it but had fun exploring the extrapolations.
+
+---
+
+# 6 Months!
 I've just reached my 6th month, i.e. half-year anniversary, of being on HRT!! 
 I've started taking occasional pictures in a time-lapse app to see progress over time and a couple months ago I also started taking chest measurements to keep track of those changes as well. Unfortunately, since I didn't start tracking right away, I have some missing data (I also lost one data record that I had made on paper), but so far it looks like this.
 
@@ -45,8 +52,7 @@ Within the next 12 months we go from 0.03 AUs in January to almost 1 AU by the t
 
 ![[image-63.png]]
 
----
-
+## Estrogen Usage
 That's all well and good, but we missed a thing...
 
 ![[image-54.png]]
@@ -101,3 +107,30 @@ Not bad.
 > [!NOTE] info
 > that's 444,004x the letter D
 > the entire rest of the post is around 5k characters, i.e. makes up only about 1% of the posts total length.
+
+
+# Update Month 7
+The 4-shot measurement average is 84.5cm, which doesn't just fall several cm short of the prediction but is _less_ than at the 6 month mark!
+It _could_ be the case that each measurement is quite imprecise (the spread of this month's measurements was >1cm) and the data only shows long-term trends, but doesn't lend itself to comparing adjacent months.
+Or _maybe_ there are minor size fluctuations from, say, week-to-week which make the data more noisy.
+
+But _clearly_ the most likely scenario is a trend reversal, caused by the lack of steady increase in estrogen application (as calculated in [[Expected Growth#Estrogen Usage|Estrogen Usage]]), where we see a steady decline in size. In the 97%-of-% scenario we fall drastically below the assumed baseline of 80cm within 2 months.
+
+![[image-106.png]]
+
+By August 2026, we'll be under the 30-33cm [average chest circumference of newborns](https://www.glowm.com/section-view/heading/The%20Normal%20Neonate:%20Assessment%20of%20Early%20Physical%20Findings/item/147). One year from now we'll be in the single digits
+[add example sizes of comparable objects into excel; replace image w new one]
+
+The alternative scenario is a linear trend reversal: 
+Here, in August 2026 we only just made it barely under the assumed 80cm baseline and it takes until 2033 to reach the chest circumference of newborns.
+
+![[image-107.png|519x379]]
+![[image-109.png]]
+
+However, only 4 years later it gets interesting when the chest circ reaches 0 in late August, when the head will be free floating above the body, for a brief time before either space-time itself becomes non-Euclidean and folds away, or a growing anti-matter anti-chest is forming, as the circumference reaches negative numbers. Which scenario is more likely to occur is an area of ongoing research.
+
+![[image-111.png]]
+
+Towards the end of 2048, the baseline is anti-restored, and by June 2026 we anti-regain the current size, and anti-exceed the previous maximum circumference.
+![[image-113.png]]
+

@@ -6,8 +6,6 @@ Bonus_Writing::
 Type: [Published](https://linear-m.notion.site/)
 [[Writing November 2025]]
 
----
-Live Version is here: https://linear-m.notion.site
 ## Sports & Active Activities
 - ~~Rapier fencing practice~~  Monster Huntress Training
 - I enjoy doing basic school sports type stuff w friends as an activity to do together, but don't care about these for themselves much
@@ -48,7 +46,7 @@ Live Version is here: https://linear-m.notion.site
 - Laser tag (haven't yet tried paintball)
 
 ## Art Engangement
-- Book discussions (although I mostly listen to things and if it's been a while I'll probably not be able to come up w interesting things on the spot; don't have much experience w it but I enjoyed my _queering nature_ literature class at uni)
+- Book discussions (although I mostly listen to things and if it's been a while I'll probably not be able to come up w interesting things on the spot; don't have much experience w it but I enjoyed my _weird ecologies: queering nature_ literature class at uni; see [[Weird-Ecologies-1]])
 - Urban sketching; digital or ink + water colors
 - Occasionally digital art or design stuff, when my muse holds me hostage
 	- designing logos mostly, have also done stickers and a font
@@ -70,22 +68,25 @@ Live Version is here: https://linear-m.notion.site
 
 
 ## Media I enjoyed
+\* Favorite comedy things 
+\** Omg those animations and choreographies!!!
 ### Movies:
-- Scott Pilgrim VS the world
+- Scott Pilgrim VS the world*
 - Adventure movies, e.g.
 	- Loupin the Third movies
 	- The Adventures of Tintin
 - Tucker and Dale VS Evil 
 - Studio Ghibli 
-- Across the Spiderverse*
-- Puss in Boots: The Last Wish*
+- Across the Spiderverse**
+- Puss in Boots: The Last Wish**
 - Enola Holmes
 ### Series:
 - Pantheon
 - Black Mirror
-- Nichijou
-- RWBY*
-- Taskmaster, QI, WILTY
+- Nichijou*
+- RWBY**
+- Taskmaster, QI, WILTY*
+- That Mitchell & Webb Look*
 - ATLA and LoK
 \* Omg those animations and choreographies!!!
 ### Rat-Fic (ish):
@@ -99,17 +100,17 @@ Live Version is here: https://linear-m.notion.site
 - Sedrics 6? (forgot the name, ratfic in which Sedric Diggory suffers from "spontaneous duplication" and uses that, combined w a time turner, to rob a magical casino)
 - Crystal Society
 - Practical Guide to Evil
-- mother of learning
+- Mother of Learning
 - Andy Weir novels (mainly The Martian and Project Hailmarry)
 ### Other Fiction
 - Children of Time series 
-- short, niche, nice
+- short, niche, nice:
 	- infect your friends and loved ones
 	- open throat
-- last night at the telegraph club
-- lessons in chemistry 
-- turtles all the way down
-- kangaroo chronicles
+- Last Night at the Telegraph Club
+- Lessons in Chemistry 
+- Turtles all the way down
+- Kangaroo Chronicles
 ### Non-Fiction:
 - atm mostly to learn more about communication, queer and trans things and history
 - as well as articles, mostly EA or rationality-sphere related, and about narrativemancy
@@ -141,5 +142,3 @@ Live Version is here: https://linear-m.notion.site
 ## Other & Misc
 - generally prefer smaller groups and 1-1 settings over medium to large groups (although large groups often tend to cluster into smaller groups again); the better I know the people, the larger the group can be 
 
-
-**Less liked activities**
