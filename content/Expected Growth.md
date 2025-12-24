@@ -7,6 +7,7 @@ words: "940"
 ---
 Jump to [[Expected Growth#Update Month 7|Update Month 7]] (wip)
 _Epistemic Status:_ non-serious/jovial; I don't actually care about it but had fun exploring the extrapolations.
+Note: Images seem to often not load here; they are mostly showing excel tables.
 
 ---
 
@@ -109,6 +110,8 @@ Not bad.
 > that's 444,004x the letter D
 > the entire rest of the post is around 5k characters, i.e. makes up only about 1% of the posts total length.
 
+Also, I stumbled upon this on the internet shortly after writing this. Seems appropriate.
+![[image-118.png|290x382]]
 # Update Month 7
 The 4-shot measurement average is 84.5cm, which doesn't just fall several cm short of the prediction but is _less_ than at the 6 month mark!
 It _could_ be the case that each measurement is quite imprecise (the spread of this month's measurements was >1cm) and the data only shows long-term trends, but doesn't lend itself to comparing adjacent months.
