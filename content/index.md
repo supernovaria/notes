@@ -1,6 +1,6 @@
 ---
 title: Home
-banner: banner.png
+banner: /banner.png
 ---
 # Recent Writings
 - [[On Music]]
@@ -15,3 +15,4 @@ banner: banner.png
 
 ---
 [Sync and Build](<file:///O:/sync-and-build.bat>)
+
