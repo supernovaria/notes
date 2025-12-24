@@ -9,7 +9,7 @@ title: Home
 
 **Sidebars:**
 - **Left**: toggles for dark/light mode; fix/auto-hide sidebars; Table of Contents (if applicable)
-- **Right**: Background Music Player (chosen for the Weird Ecologies Essay, but generally nice)
+- **Right**: Background Music Player
 
 ---
 [Sync and Build](<file:///O:/sync-and-build.bat>)
