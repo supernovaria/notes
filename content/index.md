@@ -5,7 +5,6 @@ title: Home
 - [[On Music]]
 - [[My Activity Menu]]
 - [[Expected Growth]]
-- [[Weird-Ecologies-1|Weird Ecologies Essay]]: Essay on speculative fiction about AGI and Hybrids, viewed through ecocritical and queer analysis; class assignment
 - [[Adventures w Lucie]]
 
 **Sidebars:**
