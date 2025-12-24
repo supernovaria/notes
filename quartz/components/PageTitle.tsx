@@ -7,22 +7,19 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   const banner = fileData.frontmatter?.banner
+  const bannerAlt = fileData.frontmatter?.bannerAlt ?? "Home banner"
 
   return (
-    <div class={classNames(displayClass)}>
-      {banner && fileData.slug === "index" && (
-        <div class="home-banner">
-          <img
-            src={banner}
-            alt={fileData.frontmatter?.bannerAlt ?? "Home banner"}
-          />
+    <>
+      {fileData.slug === "index" && banner && (
+        <div className="home-banner-wrapper">
+          <img src={banner} alt={bannerAlt} />
         </div>
       )}
-
-      <h2 class="page-title">
+      <h2 class={classNames(displayClass, "page-title")}>
         <a href={baseDir}>{title}</a>
       </h2>
-    </div>
+    </>
   )
 }
 
@@ -33,13 +30,14 @@ PageTitle.css = `
   font-family: var(--titleFont);
 }
 
-.home-banner img {
+/* Full-width homepage banner */
+.home-banner-wrapper img {
   width: 100%;
-  height: 260px;
+  max-height: 300px; /* adjust as needed */
   object-fit: cover;
   object-position: center;
   display: block;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
 `
 
