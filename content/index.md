@@ -1,5 +1,6 @@
 ---
 title: Home
+banner: Trans-ilvania website 2
 ---
 # Recent Writings
 - [[On Music]]
