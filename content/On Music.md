@@ -21,16 +21,16 @@ Not sure to which extend this lack of emotional connection to most music stems f
 On a long trip to somewhere my dad insisted we play some music from my phone. It was a very short playlist and I kept skipping over one song [^3] that wasn't the same radio pop music like the rest, out of fear that he wouldn't like it, say that it's bad, or smth like that. Eventually, I managed to get myself to not scramble to skip it once more but actually let it play. He didn't say anything, we never talked a word on it. I felt bad and [[Shame|ashamed]] for it.
 In middle school English class our teacher had us all stand up, then announced different music genres and had us sit down when she named our favorite one. At the end, I was the only person still standing (yeah yeah yeah ♫).
 
----
 
-[^1] Examples of RWBY Songs
+
+[^1]: Examples of RWBY Songs
 [Gold](https://www.youtube.com/watch?v=EczdC7_WxVQ) tells us about the protective, sisterly-love of Yang towards her younger sibling Ruby.
 [Armed and Ready](https://www.youtube.com/watch?v=iTZJdHr2z_o) is Yang dealing w a traumatic event that happened in S3 and doubling down on her vast strength. 
 [Red Like Roses](https://www.youtube.com/watch?v=is05jPhw_TU&list=PLS4HvQ5BP-1gKp4Ou4PRkqdEDvnNqdTGS&index=2) gives some insights into Ruby and her relationship to her deceased mother. It's also the background music to her Red Trailer, which are made to fit each other (action-on-beat).
 [I Burn](https://www.youtube.com/watch?v=P9mQTmXxU8E&list=PLS4HvQ5BP-1gKp4Ou4PRkqdEDvnNqdTGS&index=3) similarly is Yang's Yellow Trailer and tells us a bit more about her whilst being fit to the on-screen action. Don't like this one so much, but I still appreciate the insights it gives.
 
-[^2] For example, [Bang Goes the Railgun](https://youtu.be/KKFIpMfftxs?si=duvA8tNR2anW_0MO) merges the song "Bang Bang" and anime "A Certain Scientific Railgun". I love how the lyrics "but I can send you into overdrive" is paired w a thug doing a racing start w a car; at "hold her hand" they are holding hands; at the mention of "ferrari" a respective car drives across the screen; or just how each "BANG" has us see an explosion on screen!
+[^2]: For example, [Bang Goes the Railgun](https://youtu.be/KKFIpMfftxs?si=duvA8tNR2anW_0MO) merges the song "Bang Bang" and anime "A Certain Scientific Railgun". I love how the lyrics "but I can send you into overdrive" is paired w a thug doing a racing start w a car; at "hold her hand" they are holding hands; at the mention of "ferrari" a respective car drives across the screen; or just how each "BANG" has us see an explosion on screen!
 Or how for this [This Is It](https://youtu.be/zyqNkxnQDLY?si=LGh_cKiG-oojRgfd) AMV something always happens to the beat (? I don't know music terms). Also at "light it up" the beat (?) is synced to ppl flicking open their lighters!
 [Dopamine](https://youtu.be/bQLot1QM10o?si=ekbr3QKZGJGcuvJG), combining "Obsession" by OK Go with the anime "Happy Sugar Life", doesn't do the visual sync-up all that well, but instead, like the RWBY songs, tells a story where the visuals fit really well and expand on what the lyrics says. Spoiler and trigger warning for murder and violence. The anime is probably much better not having seen the AMV first.
 
-[^3] it was a CoD inspired re-lyricsed (?) version of Over the Rainbow
+[^3]: it was a CoD inspired re-lyricsed (?) version of Over the Rainbow
