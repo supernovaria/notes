@@ -7,6 +7,7 @@ banner: Trans-ilvania website 2
 - [[My Activity Menu]]
 - [[Expected Growth]]
 - [[Adventures w Lucie]]
+- [[visual creations]]
 
 **Sidebars:**
 - **Left**: toggles for dark/light mode; fix/auto-hide sidebars; Table of Contents (if applicable)
