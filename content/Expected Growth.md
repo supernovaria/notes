@@ -1,11 +1,11 @@
-Duration:: 70
-Words:: 940
-Bonus_Duration:: 
-Bonus_Writing:: 
+---
+duration: "70"
+words: "940"
+---
 [[Writing November 2025]]
 
 ---
-Jump to [[Expected Growth#Update Month 7|Update Month 7]]
+Jump to [[Expected Growth#Update Month 7|Update Month 7]] (wip)
 _Epistemic Status:_ non-serious/jovial; I don't actually care about it but had fun exploring the extrapolations.
 
 ---
