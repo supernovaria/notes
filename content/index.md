@@ -1,6 +1,6 @@
 ---
 title: Home
-banner: static/banner.png
+banner: static/banner.png <br>
 ---
 # Recent Writings
 - [[On Music]]
