@@ -98,13 +98,16 @@ Well, 11km chest circumference isn't tooo shabby!
 According to [Team Estrogen](https://www.primalwear.com/blogs/team-estrogen/how-do-i-find-the-right-size-bra) (hell yeah!) the difference in inches between the band and bust size gives us the letter, with common increments being 1 inch for A, 2 inches for B, 3 inches for C, 4 inches for D, etc.
 At this point, the precise band size doesn't really matter, we'll just assume a flat 80cm.
 
-1127857cm - 80cm = 1127777cm ≈ 444007 inches
+1,127,857cm - 80cm = 1,127,777cm ≈ 444,007 inches
 Sooo…
 
 [[Offloading to new site bc it wrecks the loading time and stability]]
 
+---
 Also, I stumbled upon this on the internet shortly after writing this. Seems appropriate.
 ![[image-118.png|290x382]]
+
+---
 # Update Month 7
 The 4-shot measurement average is 84.5cm, which doesn't just fall several cm short of the prediction but is _less_ than at the 6 month mark!
 It _could_ be the case that each measurement is quite imprecise (the spread of this month's measurements was >1cm) and the data only shows long-term trends, but doesn't lend itself to comparing adjacent months.

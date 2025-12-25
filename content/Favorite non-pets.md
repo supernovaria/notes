@@ -19,15 +19,15 @@ Look cute and cute name; have the best stealth stats of any animal: can change t
 ## Other
 
 ### Leaf Sheep
-They have an ability called kleptoplasty; when eating algea they take the chloroplast and incorporate them into their body, so they get their energy from photosynthesis :O
+These sea slugs have the ability _kleptoplasty_; when eating algae they  incorporate the chloroplast into their body and get their energy from photosynthesis :O
 
-![This sea slug - leaf sheep (Costasiella kuroshimae) : r/AIDKE](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Flcfmhqwq6mb51.jpg&f=1&nofb=1&ipt=4e7275e7c240f8447b9e546b40f7c67e624874eaa6253a6fb8060eb43b4971fe)
+![This sea slug - leaf sheep (Costasiella kuroshimae) : r/AIDKE|450](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Flcfmhqwq6mb51.jpg&f=1&nofb=1&ipt=4e7275e7c240f8447b9e546b40f7c67e624874eaa6253a6fb8060eb43b4971fe)
 
 ### Sand Crab
 
-They're just cute, funny lil' guys :3
+They're just cute, funny lil' guys and I like them scurry around sideways :3
 
-![Can You Eat Sand Crabs and How Does It Taste?](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.americanoceans.org%2Fwp-content%2Fuploads%2F2023%2F01%2Fsand-crab.jpg&f=1&nofb=1&ipt=6e8c418c377b3f483c9dee419ce8d4a813ed633ed180939fb4cbb0803f798a69)
+![Can You Eat Sand Crabs and How Does It Taste?|450](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.americanoceans.org%2Fwp-content%2Fuploads%2F2023%2F01%2Fsand-crab.jpg&f=1&nofb=1&ipt=6e8c418c377b3f483c9dee419ce8d4a813ed633ed180939fb4cbb0803f798a69)
 
 # Land Animals
 
@@ -43,7 +43,7 @@ They're just cute, funny lil' guys :3
 
 Can [imitate pretty much any sound](https://youtu.be/VjE0Kdfos4Y?si=E0bdGWA-ofZFRrin&t=106) it seems. Also the tail feathers are funny
 
-Swallowssss
+Swallowssss!!
 
   
 
@@ -54,10 +54,13 @@ Swallowssss
 ### [Sand Cat](https://en.wikipedia.org/wiki/Sand_cat)
 
 Smallest wild cat species
+### Bats!
+They're mice but swallows!
 
 ### Insects
 
-Taubenschwänzchen
+Hummingbird hawk-moth: Hummingbirds but as insect class
+![Hummingbird hawk-moth|400](https://en.wikipedia.org/wiki/File:Hummingbird_hawk-moth_straw_streched.JPG)
 
 Dragonfly
 
