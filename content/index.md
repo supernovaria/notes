@@ -8,6 +8,7 @@ banner: static/banner.png <br>
 - [[Expected Growth]]
 - [[Adventures w Lucie]]
 - [[visual creations]]
+- [[Favorite non-pets]]
 
 **Sidebars:**
 - **Left**: toggles for dark/light mode; fix/auto-hide sidebars; Table of Contents (if applicable)
