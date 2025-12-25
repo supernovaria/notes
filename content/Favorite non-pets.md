@@ -4,12 +4,12 @@
 
 ### Star-Sucker Pygmy Octopus
 The smallest known octopus, less than 2.5cm (1 in) and it weighs less than 1g. Due to its size, the Star-Sucker Pygmy Octopus spends over half their life floating near the surface living amongst and feeding on plankton.
-![Star-Sucker Pygmy Octopus|279x223](https://octonation.com/wp-content/uploads/2021/09/pygmy-octopus-1024x818.jpeg)
+![Star-Sucker Pygmy Octopus|400](https://octonation.com/wp-content/uploads/2021/09/pygmy-octopus-1024x818.jpeg)
 \>2.5cm!! >1g!!
 ### Coconut Octopus
 
-very smart and hide in shells they find
-
+very smart and hide in shells or coconuts they find they find; can walk bipedaly: they use 6 arms to hold onto the shells and the last 2 to walk
+![Coconut Octopus|400](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Octopus_shell.jpg/1280px-Octopus_shell.jpg)
   
 
 ### Cuttlefish
