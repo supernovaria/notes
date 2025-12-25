@@ -7,6 +7,7 @@
 - [ ] make focaccia
 - [ ] bars (see Lucie's obsidian)
 - [ ] organize room
+- [ ] jailbreak kindle
 
 # other things:
 - Watch videos by [mustard](https://www.youtube.com/channel/UC1ZBQ-F-yktYD4m5AzM6pww) 

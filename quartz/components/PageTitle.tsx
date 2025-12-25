@@ -10,7 +10,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const bannerAlt = fileData.frontmatter?.bannerAlt ?? "Home banner"
 
   return (
-    <div class="page-title-wrapper">
+    <>
       {/* This MUST stay intact so Quartz keeps toggles aligned */}
       <h2 class={classNames(displayClass, "page-title")}>
         <a href={baseDir}>{title}</a>
@@ -21,16 +21,11 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
           <img src={banner} alt={bannerAlt} />
         </div>
       )}
-    </div>
+    </>
   )
 }
 
 PageTitle.css = `
-.page-title-wrapper {
-  display: flex;
-  flex-direction: column;
-}
-
 .page-title {
   font-size: 1.75rem;
   margin: 0;
@@ -40,6 +35,7 @@ PageTitle.css = `
 /* Full-width homepage banner - displays below title */
 .home-banner-wrapper {
   margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .home-banner-wrapper img {
